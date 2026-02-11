@@ -155,7 +155,7 @@ plt.title('Accuracy Curve (ResNet50)')
 plt.xlabel('Epoch')
 plt.grid(True)
 
-save_path = './training_result.png'
+save_path = 'training_result.png'
 plt.savefig(save_path)
 print(f"🎉 图表已保存为: {os.path.abspath(save_path)}")
 plt.close()  # 关闭画布，释放内存

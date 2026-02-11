@@ -2,5 +2,5 @@
 __pycache__/
 *.pyc
 .venv/
-data/
+Zero to Mastery Learn PyTorch for Deep Learning/环境配置/data/
 models/
